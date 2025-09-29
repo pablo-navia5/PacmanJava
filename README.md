@@ -1,4 +1,4 @@
-#JUEGO DE PACMAN EN JAVA. HECHO POR PABLO NAVIA ROJO.
+# JUEGO DE PACMAN EN JAVA. HECHO POR PABLO NAVIA ROJO.
 Este juego contiene conexion con bases de datos, para poder jugar debes ejecutar el script: scriptBD.sql y asegurarte de tener la base de datos operativa si no el juego no cargara y saltara una excepcion.
 
 Cosas añadidas en la entrega final:
