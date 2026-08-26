@@ -21,7 +21,7 @@ Sigue estos pasos para probar el proyecto en tu entorno local:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/pablo-navia5/PacmanJava](https://github.com/pablo-navia5/PacmanJava)
+   git clone https://github.com/pablo-navia5/PacmanJava.git
    ```
 2. Abre el proyecto en tu IDE
 3. Asegurate de tener la BBDD funcionando y ejecutar el script: `scriptBD.sql`
